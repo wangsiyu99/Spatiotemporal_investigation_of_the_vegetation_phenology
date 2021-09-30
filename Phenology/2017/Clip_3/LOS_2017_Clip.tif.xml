@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20210418</CreaDate><CreaTime>11311800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Minus" Date="20210418" Time="113118">Minus EOS_2017_Clip.tif SOS_2017_Clip.tif E:\毕业论文\Data\Phenology_new\Modis\2017\Clip_3\LOS_2017_Clip.tif</Process></lineage></DataProperties></Esri></metadata>

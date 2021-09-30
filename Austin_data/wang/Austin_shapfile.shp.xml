@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20210308</CreaDate><CreaTime>08561000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20210308" Time="085610">RasterToPolygon 30nlcd_2011_Austin.tif C:\Users\Yige\OneDrive\Prj_GoingOn\11_Wang_Yige\Austin_data\wang\Austin_shapfile.shp SIMPLIFY Value</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20210418</CreaDate><CreaTime>11332900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20210418" Time="113329">RasterCalculator Con("SOS_2017_date.tif" &lt; 0,365 + "SOS_2017_date.tif","SOS_2017_date.tif") E:\毕业论文\Data\Phenology_new\Modis\2017\date_4\SOS_2017_date_final.tif</Process></lineage></DataProperties></Esri></metadata>

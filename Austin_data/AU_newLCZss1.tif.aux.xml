@@ -1,0 +1,249 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>17.5</HistMax>
+        <BucketCount>18</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>53928|551|307|189|3732|2060|1610|9|236|6953|27|15722|1245|9126|18331|350|408|1088</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>AU_newLCZss.tif.vat.OID</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>AU_newLCZss.tif.vat.Value</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>AU_newLCZss.tif.vat.Count</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>AU_LCZ270diss.FID</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="4">
+        <Name>AU_LCZ270diss.LCZ</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="5">
+        <Name>AU_LCZ270diss.Gridcode</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="6">
+        <Name>AU_LCZ270diss.Areas</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="7">
+        <Name>AU_LCZ270diss.PreArea</Name>
+        <Type>1</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>0</F>
+        <F>53928</F>
+        <F>0</F>
+        <F></F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>1</F>
+        <F>551</F>
+        <F>0</F>
+        <F>LCZ 1 Compact high-rise</F>
+        <F>1</F>
+        <F>246.4400024414063</F>
+        <F>0.05686350166797638</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>2</F>
+        <F>307</F>
+        <F>2</F>
+        <F>LCZ 2 Compact mid-rise</F>
+        <F>2</F>
+        <F>0.005187079776078463</F>
+        <F>1.196870016428875e-006</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>3</F>
+        <F>189</F>
+        <F>3</F>
+        <F>LCZ 3 Compact low-rise</F>
+        <F>3</F>
+        <F>0.186149001121521</F>
+        <F>4.295200051274151e-005</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>4</F>
+        <F>3732</F>
+        <F>4</F>
+        <F>LCZ 4 Open high-rise</F>
+        <F>4</F>
+        <F>286.4299926757813</F>
+        <F>0.06609079986810684</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>5</F>
+        <F>2060</F>
+        <F>5</F>
+        <F>LCZ 5 Open mid-rise</F>
+        <F>5</F>
+        <F>25.99819946289063</F>
+        <F>0.005998820066452026</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>6</F>
+        <F>1610</F>
+        <F>6</F>
+        <F>LCZ 6 Open low-rise</F>
+        <F>6</F>
+        <F>0.8358619809150696</F>
+        <F>0.0001928669953485951</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>7</F>
+        <F>9</F>
+        <F>7</F>
+        <F>LCZ 7 Lightweight low-rise</F>
+        <F>7</F>
+        <F>1.458590030670166</F>
+        <F>0.0003365550073795021</F>
+      </Row>
+      <Row index="8">
+        <F>8</F>
+        <F>8</F>
+        <F>236</F>
+        <F>8</F>
+        <F>LCZ 8 Large low-rise</F>
+        <F>8</F>
+        <F>11.05270004272461</F>
+        <F>0.002550299977883697</F>
+      </Row>
+      <Row index="9">
+        <F>9</F>
+        <F>9</F>
+        <F>6953</F>
+        <F>9</F>
+        <F>LCZ 9 Sparsely built</F>
+        <F>9</F>
+        <F>158.64599609375</F>
+        <F>0.03660589829087257</F>
+      </Row>
+      <Row index="10">
+        <F>10</F>
+        <F>10</F>
+        <F>27</F>
+        <F>1</F>
+        <F>LCZ 10 Heavy industry</F>
+        <F>10</F>
+        <F>1.775300025939941</F>
+        <F>0.0004096319898962975</F>
+      </Row>
+      <Row index="11">
+        <F>11</F>
+        <F>11</F>
+        <F>15722</F>
+        <F>10</F>
+        <F>LCZ A Dense trees</F>
+        <F>11</F>
+        <F>1220.630004882813</F>
+        <F>0.2816480100154877</F>
+      </Row>
+      <Row index="12">
+        <F>12</F>
+        <F>12</F>
+        <F>1245</F>
+        <F>11</F>
+        <F>LCZ B Scattered trees</F>
+        <F>12</F>
+        <F>8.903739929199219</F>
+        <F>0.00205445010215044</F>
+      </Row>
+      <Row index="13">
+        <F>13</F>
+        <F>13</F>
+        <F>9126</F>
+        <F>12</F>
+        <F>LCZ C Bush, scrub</F>
+        <F>13</F>
+        <F>698.781005859375</F>
+        <F>0.1612370014190674</F>
+      </Row>
+      <Row index="14">
+        <F>14</F>
+        <F>14</F>
+        <F>18331</F>
+        <F>13</F>
+        <F>LCZ D Low plants</F>
+        <F>14</F>
+        <F>1432.650024414063</F>
+        <F>0.3305689990520477</F>
+      </Row>
+      <Row index="15">
+        <F>15</F>
+        <F>15</F>
+        <F>350</F>
+        <F>14</F>
+        <F>LCZ E Bare rock or paved</F>
+        <F>15</F>
+        <F>109.1660003662109</F>
+        <F>0.02518890053033829</F>
+      </Row>
+      <Row index="16">
+        <F>16</F>
+        <F>16</F>
+        <F>408</F>
+        <F>15</F>
+        <F>LCZ F Bare soil or sand</F>
+        <F>16</F>
+        <F>32.47610092163086</F>
+        <F>0.007493529934436083</F>
+      </Row>
+      <Row index="17">
+        <F>17</F>
+        <F>17</F>
+        <F>1088</F>
+        <F>16</F>
+        <F>LCZ G Water</F>
+        <F>17</F>
+        <F>95.28379821777344</F>
+        <F>0.02198579907417297</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">17</MDI>
+      <MDI key="STATISTICS_MEAN">5.9966687379177</MDI>
+      <MDI key="STATISTICS_STDDEV">6.0930711819983</MDI>
+      <MDI key="STATISTICS_COVARIANCES">37.125516428898</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20210311</CreaDate><CreaTime>15143900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20210311" Time="151439">ExtractByMask EOS_2011_touying.tif 30nlcd_2011_Austin.tif E:\biyelunwen\Data\Phenology_new\Modis\MODIS_CLIP_Austin\EOS_2011_Clip</Process></lineage></DataProperties></Esri></metadata>

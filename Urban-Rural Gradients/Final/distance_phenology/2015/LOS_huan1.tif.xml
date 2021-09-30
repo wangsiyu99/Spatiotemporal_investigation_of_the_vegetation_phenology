@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20210911</CreaDate><CreaTime>17201800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByCircle" Date="20210911" Time="172018">ExtractByCircle LOS_2015_Clip.tif "621937 3357690" 2000 E:\毕业论文\结题\处理后_数据\距离梯度\最终版\distance_phenology\2015\LOS_huan1.tif INSIDE</Process></lineage></DataProperties></Esri></metadata>

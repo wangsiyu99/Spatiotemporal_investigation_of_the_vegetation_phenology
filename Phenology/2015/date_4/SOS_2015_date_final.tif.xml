@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20210418</CreaDate><CreaTime>10553500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20210418" Time="105535">PolygonToRaster SOS_2015_shap gridcode E:\毕业论文\Data\Phenology_new\Modis\2015\date_4\SOS_2015_date_final.tif CELL_CENTER NONE 290</Process></lineage></DataProperties></Esri></metadata>
